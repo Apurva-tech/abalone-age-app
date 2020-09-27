@@ -13,3 +13,6 @@
 <code> streamlit run app.py </code>
 
 ## Predict the age of abalone, using a streamlit web app, Voila !
+
+
+## Link to the app : https://abalone-age-app.herokuapp.com/
