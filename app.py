@@ -5,7 +5,7 @@ model = pickle.load(open('final_model.pkl','rb'))
 
 
 
-st.beta_set_page_config(
+st.set_page_config(
     page_title="Prediction App",
     page_icon="🤖",
     layout="centered",
